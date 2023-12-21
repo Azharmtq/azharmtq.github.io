@@ -431,7 +431,7 @@ nav ul li a:hover{
 }
 
 .contact form input {
-  width: fit-content;
+  width: 70vh;
   height: 3vh;
 }
 .contact form button {
@@ -683,5 +683,13 @@ nav ul li a:hover{
 
   .myprofile div{
     width: 50vh;
+  }
+  .contact form textarea {
+    height: 20vh;
+  }
+  
+  .contact form input {
+    width: 40vh;
+    height: 3vh;
   }
 }
